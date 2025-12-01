@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:travel_application/home/screens/home_screen.dart';
 import 'package:travel_application/onboard/data/onboard_data.dart';
 
 class OnboardScreen extends StatefulWidget {
@@ -111,7 +112,9 @@ class _OnboardScreenState extends State<OnboardScreen> {
                   child: Column(
                     children: [
                       GestureDetector(
-                        onTap: () {},
+                        onTap: () {
+                          Navigator.of(context).pushReplacement(MaterialPageRoute(builder: (_)=>HomeScreen()));
+                        },
                         child: Container(
                           padding: EdgeInsets.symmetric(vertical: 12),
                           decoration: BoxDecoration(

@@ -19,8 +19,8 @@ final List<PlaceModel> placesData = [
     name: "Santorini Island",
     location: "Santorini, Greece",
     img: [
-      "https://images.unsplash.com/photo-1627960683692-263a750170a4?auto=format&fit=crop&w=800&q=80",
-      "https://plus.unsplash.com/premium_photo-1661963145672-a2bd28eba0fb?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8U2FudG9yaW5pJTIwSXNsYW5kfGVufDB8fDB8fHww",
+    "https://plus.unsplash.com/premium_photo-1661963145672-a2bd28eba0fb?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8U2FudG9yaW5pJTIwSXNsYW5kfGVufDB8fDB8fHww",
+     "https://images.unsplash.com/photo-1627960683692-263a750170a4?auto=format&fit=crop&w=800&q=80",
       "https://images.unsplash.com/photo-1582967657984-7e50338781d4?auto=format&fit=crop&w=800&q=80",
       "https://images.unsplash.com/photo-1578495537581-2c94380a08fe?auto=format&fit=crop&w=800&q=80",
     ],
@@ -94,8 +94,8 @@ final List<PlaceModel> placesData = [
     name: "Grand Canyon",
     location: "Arizona, USA",
     img: [
-      "https://images.unsplash.com/photo-1507205187121-bb5c76c72195?auto=format&fit=crop&w=800&q=80",
       "https://images.unsplash.com/photo-1527333656061-ca7adf608ae1?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8R3JhbmQlMjBDYW55b258ZW58MHx8MHx8fDA%3D",
+      "https://images.unsplash.com/photo-1507205187121-bb5c76c72195?auto=format&fit=crop&w=800&q=80",
       "https://images.unsplash.com/photo-1501426026938-164993f1ac76?auto=format&fit=crop&w=800&q=80",
       "https://images.unsplash.com/photo-1582305596395-5028972e2726?auto=format&fit=crop&w=800&q=80",
     ],
